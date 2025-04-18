@@ -4,8 +4,15 @@ Memristive oscillator at the edge of chaos enables controllable complex behavior
 ## Overview
 These codes provides the local active VO_2 devices analysis and its controllable complex behaviors and frequency domain extraction in both experiments and simualtions.
 
+## Systems Requirements
+Windows, Mac OSX
+RAM >= 16G
+
 ## Software Requirements
 MATLAB R_2022b, Python 3.7
+
+## Installation Guide
+Download the codes and data. Put them in one folder. They can be run directly.
 
 ## Demo
 The "30 1.5m.csv" is the experiment data of the VO_2 device in bidirectional static IV sweep from 0-1.5 mA under 30 degrees Celsius temperature.
